@@ -1,0 +1,19 @@
+{
+    "name": "amithk199610/contact",
+    "description": "This will send a contact us mail to the Admin",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Amithk199610\\Contact\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "amjith.k",
+            "email": "amjith.k@cubettech.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
